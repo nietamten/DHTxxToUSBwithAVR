@@ -1,5 +1,5 @@
 # DHTxxToUSBwithAVR
-How to connect DHT11 or DHT22 sensort to usb using AVR.
+How to connect DHT11 or DHT22 sensor to usb using AVR.
 There is also java reader app. All code is not 'high quality'.
 
 
