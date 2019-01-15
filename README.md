@@ -23,6 +23,7 @@ GUI explanation:
 
 TODO (aka known bugs):
 - change interval type to 32 bit int to allow intervals longer than 65535ms
+- use watchdog (I saw device jammed one time)
 - make GUI more intuitive
 - java app not optimalized - every probe redraws whole plot and every point is drawed even tere is no space
 - firmware code is unnecessarily complicated becouse of my past worries about need of frequenty calling usbPool() what is needed only for device type (CDC) from which I gave up for HID 
